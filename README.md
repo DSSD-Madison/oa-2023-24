@@ -1,3 +1,5 @@
+Due to limited time, and lack of full stack knowledge, I was able to do a bit of preprocessing for a small sentiment analysis project I was planning to make using transformers. It is in the backend folder, as an ipynb file.
+
 # DSSD 2023-2024 Admissions Assessment
 
 This repository has starter code that you will build on to show your skills as a developer. [Fork this repository](https://github.com/DSSD-Madison/oa-2023-24/fork) to get started on your own copy.
